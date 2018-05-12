@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37052
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Lanzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38967#The-History-of-Painting-in-Italy-Vol.-4--13-of-the-Eighteenth-Century
 gutenberg_bookshelf:
 - Italy
 - Art
